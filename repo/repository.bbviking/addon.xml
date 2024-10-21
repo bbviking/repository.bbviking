@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.bbviking" name="bbviking repository" version="1.0" provider-name="bbviking">
+<addon id="repository.bbviking" name="bbviking repository" version="1.0.1" provider-name="bbviking">
     <extension point="xbmc.addon.repository" name="bbviking repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/bbviking/bbviking.github.io/master/repo/zips/addons.xml</info>

@@ -1,0 +1,3 @@
+[submodule "repo/plugin.program.bbvikingwizard"]
+	path = repo/plugin.program.bbvikingwizard
+	url = https://github.com/bbviking/plugin.program.bbvikingwizard.git
